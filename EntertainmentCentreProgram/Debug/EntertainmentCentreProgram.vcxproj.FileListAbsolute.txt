@@ -1,0 +1,2 @@
+C:\Users\Joshua\Documents\GitHub\Entertainment-Centre-Program\EntertainmentCentreProgram\Debug\EntertainmentCentreProgram.exe
+C:\Users\Joshua\Documents\GitHub\Entertainment-Centre-Program\EntertainmentCentreProgram\Debug\EntertainmentCentreProgram.pdb
