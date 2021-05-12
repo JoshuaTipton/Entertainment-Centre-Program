@@ -1,2 +1,3 @@
-﻿  Source.cpp
+﻿  Main.cpp
+C:\Users\Joshua\Documents\GitHub\Entertainment-Centre-Program\EntertainmentCentreProgram\Main.cpp(57,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   EntertainmentCentreProgram.vcxproj -> C:\Users\Joshua\Documents\GitHub\Entertainment-Centre-Program\EntertainmentCentreProgram\Debug\EntertainmentCentreProgram.exe
